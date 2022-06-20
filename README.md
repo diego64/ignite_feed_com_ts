@@ -21,13 +21,13 @@ A aplicação (https://github.com/diego64/ignite_feed) foi refatorada inserindo 
 Clone o projeto
 
 ```bash
-  git clone https://github.com/diego64/ignite_feed
+  git clone https://github.com/diego64/ignite_feed_com_ts
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd ignite_feed
+  cd ignite_feed_com_ts
 ```
 
 Instale as dependências
@@ -51,3 +51,4 @@ Inicie o servidor
 - CSS Modules
 - Entendendo a propiedade key
 - Comunicação entre componentes
+- TypeScript
